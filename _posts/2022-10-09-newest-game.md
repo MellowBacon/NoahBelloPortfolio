@@ -6,7 +6,7 @@ date:   2023-07-31 15:39:40
 preview: /assets/postpreview.png
 ---
 
-![Picture 1](/assets/void3.jpg)
+![Picture 1](NoahBelloPortfolio.github.io/assets/void3.jpg)
 
 Tasks Completed
 
