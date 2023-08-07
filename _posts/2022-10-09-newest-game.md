@@ -6,7 +6,7 @@ date:   2022-10-09 15:39:40
 preview: /assets/postpreview.png
 ---
 
-![Picture 1](/assets/fullsize.png)
+![Picture 1](/assets/void3)
 
 Here's some impressive stuff I did:
 
