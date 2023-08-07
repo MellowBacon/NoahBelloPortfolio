@@ -6,7 +6,7 @@ date:   2023-07-31 15:39:40
 preview: assets/void3.jpg
 ---
 
-![WTF](assets/void3.jpg)
+![Void Pic](/assets/void3.jpg)
 
 Tasks Completed
 
