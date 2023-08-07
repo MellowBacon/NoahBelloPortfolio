@@ -6,7 +6,7 @@ date:   2023-07-31 15:39:40
 preview: assets/void3.jpg
 ---
 
-![testing](/assets/void3.jpg)
+![testing](https://github.com/MellowBacon/NoahBelloPortfolio.github.io/blob/master/assets/void3.jpg)
 
 Tasks Completed
 
