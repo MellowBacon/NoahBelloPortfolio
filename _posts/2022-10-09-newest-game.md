@@ -6,7 +6,8 @@ date:   2023-07-31 15:39:40
 preview: assets/void3.jpg
 ---
 
-![Alt Text](assets/void3.jpg)
+![Alt Text](/assets/void3.jpg)
+
 Tasks Completed
 
 * Organized workload via Trello for the two-person team
