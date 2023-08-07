@@ -3,9 +3,8 @@ title: Noah Bello
 email: Noahbello007@gmail.com
 description: > # keep this and put description below
   Programmer and Designer
-url: "https://yourdomain.com" # the base hostname & protocol for your site
+url: https://NoahBello.github.io
 linkedin_url: "https://www.linkedin.com/in/gamingportfolio"
-github_username: MellowBacon
 footer_text: "This site uses <a href='https://github.com/gamingportfolio/urban-theme-portfolio'>urban-theme (portfolio)</a>."
 
 # Build settings
