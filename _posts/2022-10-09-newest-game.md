@@ -3,7 +3,7 @@ layout: post
 title:  "Ores from the Void"
 summary: "Lead Artist, Sound Designer, Level Designer"
 date:   2023-07-31 15:39:40
-preview: /assets/postpreview.png
+preview: assets/void3.jpg
 ---
 
 ![Picture 1](assets/void3.jpg) 
