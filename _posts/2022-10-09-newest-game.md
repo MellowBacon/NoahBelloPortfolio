@@ -8,8 +8,8 @@ preview: /assets/postpreview.png
 
 ![Picture 1](/assets/void3.jpg)
 
-Here's some impressive stuff I did:
+Tasks Completed
 
-* Added ChatGPT for NPC dialogues
-* Won game of the year from 200 publications
-* Was named *Time* person of the year (as a video game)
+* Organized workload via Trello for the two-person team
+* Modeled and Textured all Meshes
+* Added Dynamic Audio to Enemies
