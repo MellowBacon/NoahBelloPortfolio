@@ -5,7 +5,7 @@ description: > # keep this and put description below
   3D Artist
 url: https://MellowBacon.github.io
 linkedin_url: https://www.linkedin.com/in/noah-bello-572a51212/
-footer_text: "This site uses <a href='https://github.com/gamingportfolio/urban-theme-portfolio'>urban-theme (portfolio)</a>."
+footer_text: 
 
 # Build settings
 markdown: kramdown
