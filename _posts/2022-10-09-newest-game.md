@@ -5,8 +5,7 @@ summary: "Lead Artist, Sound Designer, Level Designer"
 date:   2023-07-31 15:39:40
 preview: assets/void3.jpg
 ---
-
-![Void Pic](/assets/void3.jpg)
+![Void Pic test](/assets/void3.jpg)
 
 Tasks Completed
 
